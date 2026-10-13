@@ -1,0 +1,46 @@
+[0.007s] Invoking command in '/home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/build/mi_robot_mecanum': AMENT_PREFIX_PATH=/home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/install/mi_mecanum_control:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mrp0712/ros2_ws_2602/install/modelrobot_pkg_spm:/home/mrp0712/ros2_ws_2602/install/launch_pkg_spm:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/build/mi_mecanum_control:/home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/install/mi_mecanum_control/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/cmake /home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/ros2_ws_mecanum/src/mi_robot_mecanum -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/install/mi_robot_mecanum
+[0.172s] -- The C compiler identification is GNU 13.3.0
+[0.291s] -- The CXX compiler identification is GNU 13.3.0
+[0.312s] -- Detecting C compiler ABI info
+[0.435s] -- Detecting C compiler ABI info - done
+[0.443s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.443s] -- Detecting C compile features
+[0.444s] -- Detecting C compile features - done
+[0.453s] -- Detecting CXX compiler ABI info
+[0.577s] -- Detecting CXX compiler ABI info - done
+[0.586s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.586s] -- Detecting CXX compile features
+[0.587s] -- Detecting CXX compile features - done
+[0.596s] -- Found ament_cmake: 2.5.6 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.744s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[0.815s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.941s] -- Configuring done (0.9s)
+[0.943s] -- Generating done (0.0s)
+[0.945s] -- Build files have been written to: /home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/build/mi_robot_mecanum
+[0.950s] Invoked command in '/home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/build/mi_robot_mecanum' returned '0': AMENT_PREFIX_PATH=/home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/install/mi_mecanum_control:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mrp0712/ros2_ws_2602/install/modelrobot_pkg_spm:/home/mrp0712/ros2_ws_2602/install/launch_pkg_spm:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/build/mi_mecanum_control:/home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/install/mi_mecanum_control/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/cmake /home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/ros2_ws_mecanum/src/mi_robot_mecanum -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/install/mi_robot_mecanum
+[0.951s] Invoking command in '/home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/build/mi_robot_mecanum': AMENT_PREFIX_PATH=/home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/install/mi_mecanum_control:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mrp0712/ros2_ws_2602/install/modelrobot_pkg_spm:/home/mrp0712/ros2_ws_2602/install/launch_pkg_spm:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/build/mi_mecanum_control:/home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/install/mi_mecanum_control/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/build/mi_robot_mecanum -- -j20 -l20
+[0.994s] Invoked command in '/home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/build/mi_robot_mecanum' returned '0': AMENT_PREFIX_PATH=/home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/install/mi_mecanum_control:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mrp0712/ros2_ws_2602/install/modelrobot_pkg_spm:/home/mrp0712/ros2_ws_2602/install/launch_pkg_spm:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/build/mi_mecanum_control:/home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/install/mi_mecanum_control/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/build/mi_robot_mecanum -- -j20 -l20
+[1.009s] Invoking command in '/home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/build/mi_robot_mecanum': AMENT_PREFIX_PATH=/home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/install/mi_mecanum_control:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mrp0712/ros2_ws_2602/install/modelrobot_pkg_spm:/home/mrp0712/ros2_ws_2602/install/launch_pkg_spm:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/build/mi_mecanum_control:/home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/install/mi_mecanum_control/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/build/mi_robot_mecanum
+[1.018s] -- Install configuration: ""
+[1.019s] -- Execute custom install script
+[1.020s] -- Symlinking: /home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/install/mi_robot_mecanum/share/mi_robot_mecanum/urdf/mi_robot.urdf.xacro
+[1.036s] -- Symlinking: /home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/install/mi_robot_mecanum/share/mi_robot_mecanum/worlds/pista.sdf
+[1.049s] -- Symlinking: /home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/install/mi_robot_mecanum/share/mi_robot_mecanum/launch/sdf_mecanum.py
+[1.061s] -- Symlinking: /home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/install/mi_robot_mecanum/share/mi_robot_mecanum/launch/simulacion.launch.py
+[1.072s] -- Symlinking: /home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/install/mi_robot_mecanum/share/mi_robot_mecanum/rviz/control.rviz
+[1.080s] -- Symlinking: /home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/install/mi_robot_mecanum/share/ament_index/resource_index/package_run_dependencies/mi_robot_mecanum
+[1.090s] -- Symlinking: /home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/install/mi_robot_mecanum/share/ament_index/resource_index/parent_prefix_path/mi_robot_mecanum
+[1.099s] -- Symlinking: /home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/install/mi_robot_mecanum/share/mi_robot_mecanum/environment/ament_prefix_path.sh
+[1.108s] -- Symlinking: /home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/install/mi_robot_mecanum/share/mi_robot_mecanum/environment/ament_prefix_path.dsv
+[1.115s] -- Symlinking: /home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/install/mi_robot_mecanum/share/mi_robot_mecanum/environment/path.sh
+[1.122s] -- Symlinking: /home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/install/mi_robot_mecanum/share/mi_robot_mecanum/environment/path.dsv
+[1.131s] -- Symlinking: /home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/install/mi_robot_mecanum/share/mi_robot_mecanum/local_setup.bash
+[1.140s] -- Symlinking: /home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/install/mi_robot_mecanum/share/mi_robot_mecanum/local_setup.sh
+[1.150s] -- Symlinking: /home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/install/mi_robot_mecanum/share/mi_robot_mecanum/local_setup.zsh
+[1.158s] -- Symlinking: /home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/install/mi_robot_mecanum/share/mi_robot_mecanum/local_setup.dsv
+[1.167s] -- Symlinking: /home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/install/mi_robot_mecanum/share/mi_robot_mecanum/package.dsv
+[1.174s] -- Symlinking: /home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/install/mi_robot_mecanum/share/ament_index/resource_index/packages/mi_robot_mecanum
+[1.181s] -- Symlinking: /home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/install/mi_robot_mecanum/share/mi_robot_mecanum/cmake/mi_robot_mecanumConfig.cmake
+[1.192s] -- Symlinking: /home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/install/mi_robot_mecanum/share/mi_robot_mecanum/cmake/mi_robot_mecanumConfig-version.cmake
+[1.201s] -- Symlinking: /home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/install/mi_robot_mecanum/share/mi_robot_mecanum/package.xml
+[1.213s] Invoked command in '/home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/build/mi_robot_mecanum' returned '0': AMENT_PREFIX_PATH=/home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/install/mi_mecanum_control:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mrp0712/ros2_ws_2602/install/modelrobot_pkg_spm:/home/mrp0712/ros2_ws_2602/install/launch_pkg_spm:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/build/mi_mecanum_control:/home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/install/mi_mecanum_control/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/build/mi_robot_mecanum

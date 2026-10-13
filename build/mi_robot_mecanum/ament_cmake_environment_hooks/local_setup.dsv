@@ -1,0 +1,2 @@
+source;share/mi_robot_mecanum/environment/ament_prefix_path.sh
+source;share/mi_robot_mecanum/environment/path.sh

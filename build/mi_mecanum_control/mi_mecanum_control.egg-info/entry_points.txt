@@ -1,0 +1,3 @@
+[console_scripts]
+cinematica = mi_mecanum_control.cinematica:main
+ir_a_puntos = mi_mecanum_control.ir_a_puntos:main

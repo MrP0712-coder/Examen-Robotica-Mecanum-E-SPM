@@ -1,0 +1,22 @@
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/install/mi_robot_mecanum/share/mi_robot_mecanum/urdf/mi_robot.urdf.xacro
+-- Up-to-date symlink: /home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/install/mi_robot_mecanum/share/mi_robot_mecanum/worlds/pista.sdf
+-- Up-to-date symlink: /home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/install/mi_robot_mecanum/share/mi_robot_mecanum/launch/sdf_mecanum.py
+-- Up-to-date symlink: /home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/install/mi_robot_mecanum/share/mi_robot_mecanum/launch/simulacion.launch.py
+-- Up-to-date symlink: /home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/install/mi_robot_mecanum/share/mi_robot_mecanum/rviz/control.rviz
+-- Up-to-date symlink: /home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/install/mi_robot_mecanum/share/ament_index/resource_index/package_run_dependencies/mi_robot_mecanum
+-- Up-to-date symlink: /home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/install/mi_robot_mecanum/share/ament_index/resource_index/parent_prefix_path/mi_robot_mecanum
+-- Up-to-date symlink: /home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/install/mi_robot_mecanum/share/mi_robot_mecanum/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/install/mi_robot_mecanum/share/mi_robot_mecanum/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/install/mi_robot_mecanum/share/mi_robot_mecanum/environment/path.sh
+-- Up-to-date symlink: /home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/install/mi_robot_mecanum/share/mi_robot_mecanum/environment/path.dsv
+-- Up-to-date symlink: /home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/install/mi_robot_mecanum/share/mi_robot_mecanum/local_setup.bash
+-- Up-to-date symlink: /home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/install/mi_robot_mecanum/share/mi_robot_mecanum/local_setup.sh
+-- Up-to-date symlink: /home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/install/mi_robot_mecanum/share/mi_robot_mecanum/local_setup.zsh
+-- Up-to-date symlink: /home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/install/mi_robot_mecanum/share/mi_robot_mecanum/local_setup.dsv
+-- Symlinking: /home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/install/mi_robot_mecanum/share/mi_robot_mecanum/package.dsv
+-- Up-to-date symlink: /home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/install/mi_robot_mecanum/share/ament_index/resource_index/packages/mi_robot_mecanum
+-- Up-to-date symlink: /home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/install/mi_robot_mecanum/share/mi_robot_mecanum/cmake/mi_robot_mecanumConfig.cmake
+-- Up-to-date symlink: /home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/install/mi_robot_mecanum/share/mi_robot_mecanum/cmake/mi_robot_mecanumConfig-version.cmake
+-- Up-to-date symlink: /home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/install/mi_robot_mecanum/share/mi_robot_mecanum/package.xml

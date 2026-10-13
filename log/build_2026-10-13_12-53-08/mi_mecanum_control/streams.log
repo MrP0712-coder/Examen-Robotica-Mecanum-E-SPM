@@ -1,0 +1,40 @@
+[0.543s] Invoking command in '/home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/build/mi_mecanum_control': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/build/mi_mecanum_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/install/mi_mecanum_control/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/build/mi_mecanum_control/build
+[0.745s] running develop
+[0.869s] Removing /home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/install/mi_mecanum_control/lib/python3.12/site-packages/mi-mecanum-control.egg-link (link to .)
+[0.889s] Invoked command in '/home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/build/mi_mecanum_control' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/build/mi_mecanum_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/install/mi_mecanum_control/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/build/mi_mecanum_control/build
+[0.890s] Invoking command in '/home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/ros2_ws_mecanum/src/mi_mecanum_control': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/build/mi_mecanum_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/install/mi_mecanum_control/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/mi_mecanum_control build --build-base /home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/build/mi_mecanum_control/build install --record /home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/build/mi_mecanum_control/install.log --install-scripts $base/lib/mi_mecanum_control --single-version-externally-managed install_data --force
+[1.067s] running egg_info
+[1.079s] writing ../../../build/mi_mecanum_control/mi_mecanum_control.egg-info/PKG-INFO
+[1.080s] writing dependency_links to ../../../build/mi_mecanum_control/mi_mecanum_control.egg-info/dependency_links.txt
+[1.080s] writing entry points to ../../../build/mi_mecanum_control/mi_mecanum_control.egg-info/entry_points.txt
+[1.080s] writing requirements to ../../../build/mi_mecanum_control/mi_mecanum_control.egg-info/requires.txt
+[1.080s] writing top-level names to ../../../build/mi_mecanum_control/mi_mecanum_control.egg-info/top_level.txt
+[1.104s] reading manifest file '../../../build/mi_mecanum_control/mi_mecanum_control.egg-info/SOURCES.txt'
+[1.105s] writing manifest file '../../../build/mi_mecanum_control/mi_mecanum_control.egg-info/SOURCES.txt'
+[1.105s] running build
+[1.105s] running build_py
+[1.105s] creating /home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/build/mi_mecanum_control/build
+[1.105s] creating /home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/build/mi_mecanum_control/build/lib
+[1.105s] creating /home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/build/mi_mecanum_control/build/lib/mi_mecanum_control
+[1.105s] copying mi_mecanum_control/__init__.py -> /home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/build/mi_mecanum_control/build/lib/mi_mecanum_control
+[1.105s] copying mi_mecanum_control/ir_a_puntos.py -> /home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/build/mi_mecanum_control/build/lib/mi_mecanum_control
+[1.105s] copying mi_mecanum_control/cinematica.py -> /home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/build/mi_mecanum_control/build/lib/mi_mecanum_control
+[1.106s] running install
+[1.109s] running install_lib
+[1.122s] creating /home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/install/mi_mecanum_control/lib/python3.12/site-packages/mi_mecanum_control
+[1.122s] copying /home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/build/mi_mecanum_control/build/lib/mi_mecanum_control/__init__.py -> /home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/install/mi_mecanum_control/lib/python3.12/site-packages/mi_mecanum_control
+[1.122s] copying /home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/build/mi_mecanum_control/build/lib/mi_mecanum_control/ir_a_puntos.py -> /home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/install/mi_mecanum_control/lib/python3.12/site-packages/mi_mecanum_control
+[1.122s] copying /home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/build/mi_mecanum_control/build/lib/mi_mecanum_control/cinematica.py -> /home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/install/mi_mecanum_control/lib/python3.12/site-packages/mi_mecanum_control
+[1.123s] byte-compiling /home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/install/mi_mecanum_control/lib/python3.12/site-packages/mi_mecanum_control/__init__.py to __init__.cpython-312.pyc
+[1.123s] byte-compiling /home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/install/mi_mecanum_control/lib/python3.12/site-packages/mi_mecanum_control/ir_a_puntos.py to ir_a_puntos.cpython-312.pyc
+[1.123s] byte-compiling /home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/install/mi_mecanum_control/lib/python3.12/site-packages/mi_mecanum_control/cinematica.py to cinematica.cpython-312.pyc
+[1.124s] running install_data
+[1.124s] copying resource/mi_mecanum_control -> /home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/install/mi_mecanum_control/share/ament_index/resource_index/packages
+[1.124s] copying package.xml -> /home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/install/mi_mecanum_control/share/mi_mecanum_control
+[1.125s] running install_egg_info
+[1.138s] Copying ../../../build/mi_mecanum_control/mi_mecanum_control.egg-info to /home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/install/mi_mecanum_control/lib/python3.12/site-packages/mi_mecanum_control-1.0.0-py3.12.egg-info
+[1.138s] running install_scripts
+[1.222s] Installing cinematica script to /home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/install/mi_mecanum_control/lib/mi_mecanum_control
+[1.222s] Installing ir_a_puntos script to /home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/install/mi_mecanum_control/lib/mi_mecanum_control
+[1.222s] writing list of installed files to '/home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/build/mi_mecanum_control/install.log'
+[1.240s] Invoked command in '/home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/ros2_ws_mecanum/src/mi_mecanum_control' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/build/mi_mecanum_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/install/mi_mecanum_control/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/mi_mecanum_control build --build-base /home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/build/mi_mecanum_control/build install --record /home/mrp0712/Downloads/ros2_ws_mecanum_estudiantes/build/mi_mecanum_control/install.log --install-scripts $base/lib/mi_mecanum_control --single-version-externally-managed install_data --force
